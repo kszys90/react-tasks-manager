@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Task-1",
+      "time": 1,
+      "isRunning": false,
+      "isDone": false,
+      "isRemoved": false
+    },
+    {
+      "id": 2,
+      "name": "Task-2",
+      "time": 4,
+      "isRunning": false,
+      "isDone": false,
+      "isRemoved": false
+    },
+    {
+      "id": 3,
+      "name": "Task-3",
+      "time": 5,
+      "isRunning": false,
+      "isDone": false,
+      "isRemoved": false
+    },
+    {
+      "id": 4,
+      "name": "Task-4",
+      "time": 6,
+      "isRunning": false,
+      "isDone": false,
+      "isRemoved": false
+    },
+    {
+      "name": "Task-5",
+      "time": 4,
+      "isRunning": false,
+      "isDone": false,
+      "isRemoved": false,
+      "id": 5
+    },
+    {
+      "name": "Task-6",
+      "time": 0,
+      "isRunning": false,
+      "isDone": true,
+      "isRemoved": true,
+      "id": 6
+    },
+    {
+      "name": "Task-7",
+      "time": 0,
+      "isRunning": false,
+      "isDone": true,
+      "isRemoved": true,
+      "id": 7
+    }
+  ]
+}

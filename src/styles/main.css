@@ -1,0 +1,56 @@
+body {
+    background: #dcdcdc;
+    padding: 0;
+    margin: 0;
+}
+
+#root {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+    background: #bebaba;
+}
+
+.title {
+    text-align: center;
+}
+
+.main_container {
+    border: 0.5px solid black;
+}
+
+.task_title-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.task__container {
+    padding: 8px;
+}
+
+.footer_container {
+    margin: 0 auto 0 auto;
+    display: flex;
+    justify-content: space-around;
+    max-width: 400px;
+}
+
+.separator_container {
+    background-color: #dcdcdc;
+    height: 40px;
+}
+
+.inputs_container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.submit_container {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.input-field {
+    width: 230px;
+}

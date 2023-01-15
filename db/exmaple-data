@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Task-1",
+            "time": 3,
+            "isRunning": false,
+            "isDone": false,
+            "isRemoved": false
+        },
+        {
+            "id": 2,
+            "name": "Task-2",
+            "time": 4,
+            "isRunning": false,
+            "isDone": false,
+            "isRemoved": false
+        },
+        {
+            "id": 3,
+            "name": "Task-3",
+            "time": 5,
+            "isRunning": false,
+            "isDone": false,
+            "isRemoved": false
+        },
+        {
+            "id": 4,
+            "name": "Task-4",
+            "time": 6,
+            "isRunning": false,
+            "isDone": false,
+            "isRemoved": false
+        }
+    ]
+}
